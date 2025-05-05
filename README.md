@@ -1,5 +1,6 @@
 ![logo](https://github.com/VortexI-O/VortexI-O/blob/main/VORTEX.IO_logo.png?raw=true "logo")
 
+<h1 align="center">Vortex-IO</h1>
 # Vortex-IO
 
 Welcome to **Vortex-IO** — a tech-driven company committed to building innovative solutions that drive impact and push boundaries.
