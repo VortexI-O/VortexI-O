@@ -31,8 +31,8 @@ Feel free to reach out if you'd like to collaborate or learn more:
 
 - 🌐 Website: [Coming Soon]  
 - 📧 Email: vortexio789@gmail.com
-- 🐦 Twitter: [@VortexIO](https://twitter.com/VortexIO) *(Optional)*  
-- 💼 LinkedIn: [Vortex-IO](https://linkedin.com/company/vortex-io) *(Optional)*
+- 🐦 Twitter: [@VortexIO](https://twitter.com/VortexIO) 
+- 💼 LinkedIn: [Vortex-IO](https://linkedin.com/company/vortex-io) 
 
 ---
 
