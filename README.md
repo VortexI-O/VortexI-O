@@ -4,7 +4,7 @@
 <br>
 <h1 align="center"><b>Vortex-IO</b></h1>
 <p align="center">
-Welcome to **Vortex-IO** — a tech-driven company committed to building innovative solutions that drive impact and push boundaries.
+Welcome to <b>Vortex-IO</b> — a tech-driven company committed to building innovative solutions that drive impact and push boundaries.
 </p>
 
 <hr>
