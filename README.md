@@ -1,4 +1,4 @@
-![logo](https://github.com/VortexI-O/VortexI-O/blob/main/VORTEX.IO1.jpg?raw=true "logo")
+![logo](https://github.com/VortexI-O/VortexI-O/blob/main/VORTEX.IO_logo.png?raw=true "logo")
 
 # Vortex-IO
 
