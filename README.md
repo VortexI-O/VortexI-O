@@ -11,7 +11,6 @@ At **Vortex-IO**, we specialize in delivering cutting-edge software solutions ta
 - 🖥️ Custom Software Development  
 - 🌐 Web and Mobile Applications  
 - 🤖 Artificial Intelligence & Machine Learning  
-- 🔐 Cybersecurity Solutions  
 - ☁️ Cloud Integration and DevOps  
 - 📊 Data Analytics & Visualization  
 
@@ -24,7 +23,7 @@ At **Vortex-IO**, we specialize in delivering cutting-edge software solutions ta
 Feel free to reach out if you'd like to collaborate or learn more:
 
 - 🌐 Website: [Coming Soon]  
-- 📧 Email: contact@vortex-io.com  
+- 📧 Email: vortexio789@gmail.com
 - 🐦 Twitter: [@VortexIO](https://twitter.com/VortexIO) *(Optional)*  
 - 💼 LinkedIn: [Vortex-IO](https://linkedin.com/company/vortex-io) *(Optional)*
 
