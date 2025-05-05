@@ -1,10 +1,11 @@
+<div align="center">
 ![logo](https://github.com/VortexI-O/VortexI-O/blob/main/VORTEX.IO_logo.png?raw=true "logo")
-
+</div>
+<br>
 <h1 align="center">Vortex-IO</h1>
-# Vortex-IO
-
+<p align="center">
 Welcome to **Vortex-IO** — a tech-driven company committed to building innovative solutions that drive impact and push boundaries.
-
+</p>
 ## 🚀 About Us
 
 At **Vortex-IO**, we specialize in delivering cutting-edge software solutions tailored to meet real-world challenges. Whether it’s developing intelligent applications, scalable systems, or secure platforms, we focus on quality, efficiency, and innovation.
